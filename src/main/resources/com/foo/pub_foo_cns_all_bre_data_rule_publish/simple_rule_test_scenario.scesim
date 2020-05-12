@@ -50,7 +50,7 @@
           <className>long</className>
           <factAlias>cns_transaction_file</factAlias>
           <expressionAlias>extended_npd_attr_3</expressionAlias>
-          <columnWidth>228.5</columnWidth>
+          <columnWidth>505.5</columnWidth>
         </FactMapping>
         <FactMapping>
           <expressionElements>
@@ -72,7 +72,7 @@
           <className>long</className>
           <factAlias>cns_transaction_file</factAlias>
           <expressionAlias>npd_attr_112</expressionAlias>
-          <columnWidth>228.5</columnWidth>
+          <columnWidth>505.5</columnWidth>
         </FactMapping>
       </factMappings>
       <type>RULE</type>
